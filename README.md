@@ -1,5 +1,4 @@
 # Orderdata_analysis_using_sql
-# Orders-Data-Analysis-using-SQL-
 End-to-end Order data analysis project using Python and SQL to extract, clean, and analyze order data from Kaggle.
 
 # **Project Overview**
