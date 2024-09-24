@@ -43,7 +43,7 @@ The dataset used in this project includes the following features:
 - Sale Price
 - Profit
 
-![image](https://github.com/MithilKothari/Orders-Data-Analysis-using-SQL-/assets/156261969/f3033b7a-8a8d-48bf-9f89-638e9f3933cc)
+![image](https://github.com/Vartikaac/Orderdata_analysis_using_sql/blob/main/assets/1.png)
 
 ### **Data Extraction**
 Data extraction steps performed include:
@@ -90,7 +90,7 @@ The following Python libraries were used in this project:
 
 The following diagram illustrates the data flow for this project:
 
-![image](https://github.com/MithilKothari/Orders-Data-Analysis-using-SQL-/assets/156261969/5b8924d1-9239-4192-9ae9-c4a8ee5ac46c)
+![image](https://github.com/Vartikaac/Orderdata_analysis_using_sql/blob/main/assets/2.png)
 
 ** **Key Findings**
 
@@ -106,21 +106,21 @@ The following diagram illustrates the data flow for this project:
 
 1. Finding the top 10 highest revenue-generating products.
 
-![image](https://github.com/MithilKothari/Orders-Data-Analysis-using-SQL-/assets/156261969/ef5ed962-63b9-4dc5-9a2c-1d9bcacacfb8)
+![image](https://github.com/Vartikaac/Orderdata_analysis_using_sql/blob/main/assets/3.png)
 
 2. Finding the top 5 selling products in each region.
 
-![image](https://github.com/MithilKothari/Orders-Data-Analysis-using-SQL-/assets/156261969/ceba476b-fb07-44b5-b34b-aa248a5ab364)
+![image](https://github.com/Vartikaac/Orderdata_analysis_using_sql/blob/main/assets/4.png)
 
 3. Query for finding each category that had the highest month of sales.
 
-![image](https://github.com/MithilKothari/Orders-Data-Analysis-using-SQL-/assets/156261969/8e40d9f4-0006-4346-811d-35a22602f354)
+![image](https://github.com/Vartikaac/Orderdata_analysis_using_sql/blob/main/assets/5.png)
 
 4. Finding month-over-month growth comparison for 2022 and 2023 sales.
 
-![image](https://github.com/MithilKothari/Orders-Data-Analysis-using-SQL-/assets/156261969/84607407-25a7-49c4-b598-0fc48cd2cc87)
+![image](https://github.com/Vartikaac/Orderdata_analysis_using_sql/blob/main/assets/6.png)
 
 5. Which sub categories had highest growth by profit in 2023 compare to 2022.
 
-![image](https://github.com/MithilKothari/Orders-Data-Analysis-using-SQL-/assets/156261969/96886db9-74fd-466a-b707-3b98afe32dc3)
+![image](https://github.com/Vartikaac/Orderdata_analysis_using_sql/blob/main/assets/7.png)
 
